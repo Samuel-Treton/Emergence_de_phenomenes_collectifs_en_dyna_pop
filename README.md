@@ -59,7 +59,7 @@ Le polycopié est organisé en quatre chapitres progressifs :
 **Samuel Tréton**  
 Laboratoire de Mathématiques Jean Leray  
 Nantes Université, France  
-🌐 [Page web](https://www.samueltreton.fr/){:target="_blank"}
+🌐 [Page web](https://www.samueltreton.fr/)
 
 ## 📚 Bibliographie recommandée
 
