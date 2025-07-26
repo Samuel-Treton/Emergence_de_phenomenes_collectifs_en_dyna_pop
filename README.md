@@ -1,7 +1,7 @@
 # Émergence de phénomènes collectifs en dynamique des populations
 
 [![Licence](https://img.shields.io/badge/Licence-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Ply de cours en ligne](https://img.shields.io/badge/Cours%20en%20ligne-Accéder-4c1.svg)](https://www.samueltreton.fr/enseignements/nantes/M2_modelisation/Emergence_de_phenomenes_collectifs.pdf){:target="_blank"}
+[![Ply de cours en ligne](https://img.shields.io/badge/Cours%20en%20ligne-Accéder-4c1.svg)](https://www.samueltreton.fr/enseignements/nantes/M2_modelisation/Emergence_de_phenomenes_collectifs.pdf)
 
 ## 📚 À propos
 
