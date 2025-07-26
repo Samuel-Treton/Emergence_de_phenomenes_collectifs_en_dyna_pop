@@ -1,11 +1,11 @@
 # Émergence de phénomènes collectifs en dynamique des populations
 
 [![Licence](https://img.shields.io/badge/Licence-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Cours en ligne](https://img.shields.io/badge/Cours%20en%20ligne-Accéder-4c1.svg)](https://www.samueltreton.fr/enseignements/nantes/M2_modelisation/Emergence_de_phenomenes_collectifs.pdf)
+[![Ply de cours en ligne](https://img.shields.io/badge/Cours%20en%20ligne-Accéder-4c1.svg)](https://www.samueltreton.fr/enseignements/nantes/M2_modelisation/Emergence_de_phenomenes_collectifs.pdf){:target="_blank"}
 
 ## 📚 À propos
 
-Ce repository contient le matériel pédagogique du cours **"Émergence de phénomènes collectifs en dynamique des populations"** (XMS2MU100), dispensé dans le cadre du Master 2 MACS (Modélisation, Analyse Numérique et Calcul Scientifique) de l'Université de Nantes.
+Ce dépôt contient le matériel pédagogique du cours **"Émergence de phénomènes collectifs en dynamique des populations"** (XMS2MU100), dispensé dans le cadre du Master 2 MACS (Modélisation, Analyse Numérique et Calcul Scientifique) de l'Université de Nantes.
 
 Le cours propose une introduction complète aux équations aux dérivées partielles de type réaction-diffusion, utilisées pour modéliser l'évolution spatio-temporelle de populations biologiques dans des contextes variés relevant de l'écologie ou de l'épidémiologie.
 
@@ -59,7 +59,7 @@ Le polycopié est organisé en quatre chapitres progressifs :
 **Samuel Tréton**  
 Laboratoire de Mathématiques Jean Leray  
 Nantes Université, France  
-🌐 [Site web](https://www.samueltreton.fr/)
+🌐 [Page web](https://www.samueltreton.fr/){:target="_blank"}
 
 ## 📚 Bibliographie recommandée
 
