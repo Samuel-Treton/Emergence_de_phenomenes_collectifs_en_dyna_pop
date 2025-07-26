@@ -1,7 +1,6 @@
 # Émergence de phénomènes collectifs en dynamique des populations
 
 [![Licence](https://img.shields.io/badge/Licence-CC%20BY--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-Document-brightgreen.svg)](M2_modelisation_poly_cours.pdf)
 
 ## 📚 À propos
 
@@ -40,7 +39,7 @@ Le polycopié est organisé en quatre chapitres progressifs :
 - Analyse des solutions sur la droite réelle
 - Ondes progressives et vitesse de propagation
 
-## 📁 Contenu du repository
+<!-- ## 📁 Contenu du repository
 
 ```
 ├── M2_modelisation_poly_cours.tex     # Document principal LaTeX
@@ -51,20 +50,8 @@ Le polycopié est organisé en quatre chapitres progressifs :
 │   └── DALL-E/                       # Images générées par IA
 ├── document_in_preparation/           # Matériel en développement
 └── README.md                          # Ce fichier
-```
+``` -->
 
-## 🔧 Compilation du document
-
-Le document LaTeX peut être compilé avec :
-
-```bash
-pdflatex M2_modelisation_poly_cours.tex
-```
-
-Ou utiliser le script fourni :
-```bash
-./LAUNCH.sh
-```
 
 ## 👨‍🏫 Enseignant
 
@@ -85,19 +72,6 @@ Nantes Université, France
 - Chercheurs en modélisation mathématique en biologie
 - Toute personne intéressée par les équations de réaction-diffusion
 
-## 📊 Volume horaire
-
-- **16h de cours magistraux**
-- **12h de travaux dirigés**
-
-## 🤝 Contributions
-
-Les suggestions d'amélioration et corrections sont les bienvenues. N'hésitez pas à ouvrir une issue ou proposer une pull request.
-
 ## 📄 Licence
 
 Ce matériel pédagogique est mis à disposition sous licence [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-
----
-
-*Dernière mise à jour : Juillet 2025*
